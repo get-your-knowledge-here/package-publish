@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/get-your-knowledge-here/package-publish/issues"
   },
-  "homepage": "https://github.com/get-your-knowledge-here/package-publish#readme"
+  "homepage": "https://github.com/get-your-knowledge-here/package-publish#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
 }
