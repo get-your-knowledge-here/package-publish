@@ -1,6 +1,6 @@
 {
   "name": "@gykh/package-publish",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Example for publish packages",
   "main": "index.js",
   "scripts": {
